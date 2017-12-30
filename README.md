@@ -1,0 +1,2 @@
+# blog-snail
+personal blog
